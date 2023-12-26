@@ -1,0 +1,11 @@
+.navbar-dropdown{
+    background-color: gray;
+    color: #151616;
+    text-align: center;
+}
+
+#text-content{
+    border: 1px solid black;
+    height: 1000px;
+    background-color: gray;
+}
